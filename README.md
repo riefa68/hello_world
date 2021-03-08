@@ -1,3 +1,3 @@
 # hello_world
-A test repository
-I want to understand how Github works
+This is my journey
+I want to use this to start programming myself in Three.JS. It's a though journey but I think it may worth it!
